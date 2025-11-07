@@ -4,6 +4,9 @@
 *DOMAIN*: WEB DEVELOPMENT
 *DURATION*: 4 WEEKS
 *MENTOR*: NEELA SANTOSH
+
+
+
 A **professional and recruiter-friendly personal portfolio website** showcasing my **skills, projects, and achievements**.  
 Built with **HTML, CSS, and JavaScript**, the portfolio is fully responsive, modern, and designed to create a strong first impression for recruiters and hiring managers.
 
