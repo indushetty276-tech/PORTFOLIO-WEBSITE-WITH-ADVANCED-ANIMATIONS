@@ -1,12 +1,3 @@
-#  Personal Portfolio Website
-
-![Repo Size](https://img.shields.io/github/repo-size/aadityaguptaaa/My-Portfolio?color=blue)
-![Contributors](https://img.shields.io/github/contributors/aadityaguptaaa/My-Portfolio?color=green)
-![Stars](https://img.shields.io/github/stars/aadityaguptaaa/My-Portfolio?style=social)
-![Forks](https://img.shields.io/github/forks/aadityaguptaaa/My-Portfolio?style=social)
-![Issues](https://img.shields.io/github/issues/aadityaguptaaa/My-Portfolio)
-![License](https://img.shields.io/github/license/aadityaguptaaa/My-Portfolio)
-
 A **professional and recruiter-friendly personal portfolio website** showcasing my **skills, projects, and achievements**.  
 Built with **HTML, CSS, and JavaScript**, the portfolio is fully responsive, modern, and designed to create a strong first impression for recruiters and hiring managers.
 
@@ -15,7 +6,7 @@ Built with **HTML, CSS, and JavaScript**, the portfolio is fully responsive, mod
 
 ## 🌐 Live Demo
 
-🔗 **Live Portfolio:** [View Here 🚀](https://aadityaguptaaa.github.io/My-Portfolio/)  
+🔗 **Live Portfolio:** [View Here 🚀](https://github.com/indushetty276-tech/PORTFOLIO-WEBSITE-WITH-ADVANCED-ANIMATIONS/)  
 
 
 <br>
@@ -45,7 +36,7 @@ Built with **HTML, CSS, and JavaScript**, the portfolio is fully responsive, mod
 
 ## ⚙️ Installation & Setup
 ```bash
-git clone https://github.com/aadityaguptaaa/My-Portfolio.git
+git clone https://github.com/indushetty276-tech/PORTFOLIO-WEBSITE-WITH-ADVANCED-ANIMATIONS/
 cd My-Portfolio
 ```
 2.  Open the project folder.
@@ -69,12 +60,6 @@ However, suggestions & improvements are always welcome!
 Steps: Fork → Branch → Commit → Push → Pull Request
 
 <br>
-
-## 📄 License
-This project is licensed under the [**MIT License**](LICENSE) 
-
-
-
 <br>
 
 ## ✨ Future Enhancements
@@ -89,10 +74,10 @@ This project is licensed under the [**MIT License**](LICENSE)
 
 
 ## 📬 Connect with Me
-- 🌐 Portfolio: [Aaditya](https://aadityaguptaaa.github.io/My-Portfolio/) 
-- 💼 LinkedIn: [AadityaxGupta](https://www.linkedin.com/in/aadityaxgupta/)
-- 📧 Email: aadityavidit@gmail.com 
+- 🌐 Portfolio: [Indrani k](https://github.com/indushetty276-tech) 
+- 💼 LinkedIn: [Indrani k](https://www.linkedin.com/in/indrani-k/)
+- 📧 Email: indushetty276@gmail.com@gmail.com 
 
 
 
-💼 Developed by [Aaditya Gupta](https://www.linkedin.com/in/aadityaxgupta/) | Software Developer & Full Stack Enthusiast
+💼 Developed by [Indrani k](https://www.linkedin.com/in/indrani-k/) | Software Developer & Full Stack Enthusiast
