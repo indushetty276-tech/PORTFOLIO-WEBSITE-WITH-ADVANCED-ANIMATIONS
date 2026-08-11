@@ -80,4 +80,4 @@ Steps: Fork → Branch → Commit → Push → Pull Request
 
 
 
-💼 Developed by [Indrani k](https://www.linkedin.com/in/indrani-k/) | Software Developer & Full Stack Enthusiast
+💼 Developed by [Indrani k](https://www.linkedin.com/in/indrani-k/) | 
